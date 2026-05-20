@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻  About Me
 
 - 🎓 6th Semester Computer Science & Engineering Student  
 - ☁️ Currently learning AWS Cloud  
