@@ -6,7 +6,6 @@
 </p> 
 
 ---
-
 ## 🧑‍💻  About Me
 
 - 🎓 6th Semester Computer Science & Engineering Student  
