@@ -74,7 +74,7 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 | [🎨 3D Dome Gallery](https://github.com/dayananda-ks) | React · Canvas API · Web Audio API | Immersive 3D gallery with particle systems, dynamic lighting & audio-reactive visuals |
 
 > *Update placeholder links to actual repo URLs*
-
+ 
 ---
 
 ## Achievements
@@ -96,7 +96,7 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 
 ## Reach me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-daya.me-000000?style=flat-square&logo=vercel&logoColor=white)](https://daya.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-daya436.me-000000?style=flat-square&logo=vercel&logoColor=white)](https://daya436.me)
 &nbsp;·&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dayananda%20K%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanandaks)
 &nbsp;·&nbsp;
