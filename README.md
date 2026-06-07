@@ -9,7 +9,6 @@
 </a>
 
 <br/>
-
 <!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=dayananda-ks&label=Profile+Views&color=00c2ff&style=flat-square" alt="Profile views" />
