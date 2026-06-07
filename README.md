@@ -47,13 +47,13 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 ## GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dayananda-ks&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=prs&custom_title=Activity" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dayananda-ks&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=prs&custom_title=Activity" />
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayananda-ks&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dayananda-ks&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dayananda-ks&theme=github-dark-blue&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=dayananda-ks&theme=github-dark-blue&hide_border=true" />
 </div>
 
 ---
@@ -97,7 +97,7 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 ---
 
 <div align="center">
-  <sub>Open to SDE internships · Technical Lead @ Open Source Club · State-Level Kabaddi Captain</sub>
+  <sub>Open to SDE internships · Technical Lead @ Open Source Club · State-Level Kabaddi Captain · CGPA 7.7</sub>
 </div>
 
 <div align="center">
