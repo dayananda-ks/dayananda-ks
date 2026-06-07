@@ -30,8 +30,10 @@ I run Linux daily (Ubuntu & Fedora), think deeply about system design, and I'm o
 **Backend** &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Spring MVC &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Flask  
 **AI / ML** &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Fine-Tuning &nbsp;·&nbsp; HuggingFace &nbsp;·&nbsp; OpenAI API  
 **Frontend** &nbsp;·&nbsp; React &nbsp;·&nbsp; Flutter
+
 **Cloud / Infra** &nbsp;·&nbsp; AWS (EC2 · S3 · Lambda · RDS) &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux  
 **Data** &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Supabase
+
 
 ---
 
