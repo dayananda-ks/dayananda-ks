@@ -72,7 +72,7 @@ I run Linux daily (Ubuntu & Fedora), care a lot about clean architecture, and I'
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dayananda%20K%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanandaks)
 &nbsp;·&nbsp;
-📧 `dayanandaks045@gmail.com` *(update if different)*
+📧 `dayanandaks045@gmail.com`
 
 ---
 
