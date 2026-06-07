@@ -10,38 +10,40 @@
 
 ---
 
-**Hey, I'm Dayananda** — a Computer Science undergrad (B.E., 2027) at KVG College of Engineering, Sullia. I build **Java + Spring Boot** backend systems, ship AI-powered apps using **RAG & LLMs**, and push things to production.
+Hey, I'm Dayananda — a Computer Science undergrad (B.E., 2027) at KVG College of Engineering, Sullia. I build Java + Spring Boot backend systems, ship AI-powered apps using RAG & LLMs, and push things to production.
 
-Currently interning at two places simultaneously and leading the Open Source Club at my college. Former state-level Kabaddi captain (12th grade). I write clean code, think in systems, and learn by building.
+Technical Lead of the Open Source Club at my college, interning at two places simultaneously. I write clean code, think in systems, and learn by building.
 
 ---
 
 ## Experience
 
-- 🏢 **SWE Intern @ Algorithm#365** — Java, OOP, DSA patterns, interview-level problem solving
-- 🚀 **SDE Intern @ WebQraft Solutions** — Backend & web dev in a startup, Git workflows, deployment
+- 🏢 SWE Intern @ Algorithm#365 — Java, OOP, DSA patterns, interview-level problem solving
+- 🚀 SDE Intern @ WebQraft Solutions — Backend & web dev in a startup, Git workflows, deployment
 
 ---
 
 ## What I'm building
 
-- 🔌 **Word Counter Pro AI** — Production VS Code extension with real-time analytics, live status bar & dashboard
-- 🏥 **Hospital Queue System** — Appointment booking & patient queue management web app
-- 🤖 **Multimodal Personal Tutor** — Text + Voice + Image AI learning platform
-- 🎨 **3D Dome Gallery** — Immersive Canvas API experience with particle systems & audio-reactive visuals
+- 🔌 Word Counter Pro AI — Production VS Code extension with real-time analytics, live status bar & dashboard
+- 🔐 SecureSSO — GitHub OAuth 2.0 dashboard with session management & live GitHub API integration
+- 🏥 Hospital Queue System — Appointment booking & patient queue management web app
+- 🤖 Multimodal Personal Tutor — Text + Voice + Image AI learning platform
+- 🎨 3D Dome Gallery — Immersive Canvas API experience with particle systems & audio-reactive visuals
 
 ---
 
 ## Stack
 
 Languages &nbsp;·&nbsp; Java *(primary)* &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; SQL  
-Backend &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Django &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Maven &nbsp;·&nbsp; Node.js  
+Backend &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Django &nbsp;·&nbsp; Flask &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Maven &nbsp;·&nbsp; Node.js  
 AI / ML &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; AI App Development  
 Frontend &nbsp;·&nbsp; React.js &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; Canvas API &nbsp;·&nbsp; VS Code Extension API  
+Auth &nbsp;·&nbsp; OAuth 2.0 &nbsp;·&nbsp; GitHub OAuth &nbsp;·&nbsp; Session Management  
 Cloud / Infra &nbsp;·&nbsp; AWS *(Basic)* &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; Linux  
 Hosting &nbsp;·&nbsp; Vercel &nbsp;·&nbsp; Render &nbsp;·&nbsp; GitHub Pages  
 Data &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Supabase  
-Integrations &nbsp;·&nbsp; Razorpay  
+Integrations &nbsp;·&nbsp; Razorpay &nbsp;·&nbsp; GitHub REST API  
 Tools &nbsp;·&nbsp; Notion  
 CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; Computer Networks
 
@@ -65,19 +67,22 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 
 | Project | Stack | What it does |
 |---|---|---|
-| [🔌 Word Counter Pro AI](https://github.com/dayananda-ks/word-count) | TypeScript · VS Code Extension API · Node.js | Production VS Code extension — real-time word, char, line count & reading-time analytics with live dashboard |
-| [🏥 Hospital Queue Management](https://github.com/dayananda-ks/HACTHON_SIT) | React.js · Django · Python · Firebase | Cuts patient wait times via online appointment booking & queue management — Srinathan 2.0 National Hackathon |
-| [🤖 Multimodal Personal Tutor](https://github.com/dayananda-ks/smart_ai_platform-) | Python · AI Integration | Text + Voice + Image adaptive learning platform — Round 3 of 52 teams, MIT Mysore Hackathon |
-| [🎨 3D Dome Gallery](https://github.com/dayananda-ks/Aagaman) | React · Canvas API · Web Audio API | Immersive 3D gallery with particle systems, dynamic lighting & audio-reactive visuals |
+| [🔌 Word Counter Pro AI](https://github.com/dayananda-ks) | TypeScript · VS Code Extension API · Node.js | Production VS Code extension — real-time word, char, line count & reading-time analytics with live dashboard |
+| [🔐 SecureSSO](https://github.com/dayananda-ks/SecureSSO) | Python · Flask · Authlib · GitHub OAuth 2.0 | GitHub OAuth dashboard with secure session management & live GitHub API data — 🥉 3rd Place, College Hackathon · [Live](https://securesso-6byz.onrender.com) |
+| [🏥 Hospital Queue Management](https://github.com/dayananda-ks) | React.js · Django · Python · Firebase | Cuts patient wait times via online appointment booking & queue management — Srinathan 2.0 National Hackathon |
+| [🤖 Multimodal Personal Tutor](https://github.com/dayananda-ks) | Python · AI Integration | Text + Voice + Image adaptive learning platform — Round 3 of 52 teams, MIT Mysore Hackathon |
+| [🎨 3D Dome Gallery](https://github.com/dayananda-ks) | React · Canvas API · Web Audio API | Immersive 3D gallery with particle systems, dynamic lighting & audio-reactive visuals |
+
+> *Update placeholder links to actual repo URLs*
 
 ---
 
 ## Achievements
 
-- 🛰️ Certificate of Acknowledgement — **Bharatiya Antariksh Hackathon 2025** by ISRO
-- 🚀 Advanced to **Round 3 of 52 teams** — MIT Mysore Hackathon
-- 🏆 Participated — **Srinathan 2.0 National Hackathon** (₹1L prize pool)
-- 🥉 3rd Place — Internal College Hackathon
+- 🛰️ Certificate of Acknowledgement — Bharatiya Antariksh Hackathon 2025 by ISRO
+- 🚀 Advanced to Round 3 of 52 teams — MIT Mysore Hackathon
+- 🏆 Participated — Srinathan 2.0 National Hackathon (₹1L prize pool)
+- 🥉 3rd Place — Internal College Hackathon (SecureSSO)
 
 ---
 
@@ -102,7 +107,7 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 ---
 
 <div align="center">
-  <sub>🌐 https//:daya436.me &nbsp;·&nbsp; Deployed on Vercel & Render &nbsp;·&nbsp; Open to SDE internships &nbsp;·&nbsp; Technical Lead @ Open Source Club &nbsp;·&nbsp; </sub>
+  <sub>🌐 daya.me &nbsp;·&nbsp; Deployed on Vercel & Render &nbsp;·&nbsp; Open to SDE internships &nbsp;·&nbsp; Technical Lead @ Open Source Club &nbsp;·&nbsp; CGPA 7.7</sub>
 </div>
 
 <div align="center">
