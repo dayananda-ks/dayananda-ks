@@ -68,7 +68,7 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 | Project | Stack | What it does |
 |---|---|---|
 | [🔌 Word Counter Pro AI](https://github.com/dayananda-ks) | TypeScript · VS Code Extension API · Node.js | Production VS Code extension — real-time word, char, line count & reading-time analytics with live dashboard |
-| [🔐 SecureSSO](https://github.com/dayananda-ks/SecureSSO) | Python · Flask · Authlib · GitHub OAuth 2.0 | GitHub OAuth dashboard with secure session management & live GitHub API data — 🥉 3rd Place, College Hackathon · [Live](https://securesso-6byz.onrender.com) |
+| [🔐 SecureSSO](https://github.com/dayananda-ks/SecureSSO) | Python · Flask · Authlib · GitHub OAuth 2.0 | GitHub OAuth dashboard with secure session management & live GitHub API data —· [Live](https://securesso-6byz.onrender.com) |
 | [🏥 Hospital Queue Management](https://github.com/dayananda-ks) | React.js · Django · Python · Firebase | Cuts patient wait times via online appointment booking & queue management — Srinathan 2.0 National Hackathon |
 | [🤖 Multimodal Personal Tutor](https://github.com/dayananda-ks) | Python · AI Integration | Text + Voice + Image adaptive learning platform — Round 3 of 52 teams, MIT Mysore Hackathon |
 | [🎨 3D Dome Gallery](https://github.com/dayananda-ks) | React · Canvas API · Web Audio API | Immersive 3D gallery with particle systems, dynamic lighting & audio-reactive visuals |
