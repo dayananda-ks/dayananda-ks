@@ -29,7 +29,8 @@ I run Linux daily (Ubuntu & Fedora), think deeply about system design, and I'm o
 **Languages** &nbsp;·&nbsp; Java *(primary)* &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp;
 **Backend** &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Spring MVC &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Flask  
 **AI / ML** &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Fine-Tuning &nbsp;·&nbsp; HuggingFace &nbsp;·&nbsp; OpenAI API  
-**Frontend** &nbsp;·&nbsp; React &nbsp;·&nbsp; HTMl
+**Frontend** &nbsp;·&nbsp; React &nbsp;·&nbsp; Html &nbsp;·&nbsp;
+
 **Cloud / Infra** &nbsp;·&nbsp; AWS (EC2 · S3 · Lambda · RDS) &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux  
 **Data** &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Supabase
 
