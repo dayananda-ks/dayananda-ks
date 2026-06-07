@@ -36,7 +36,7 @@ Technical Lead of the Open Source Club at my college, interning at two places si
 ## Stack
 
 Languages &nbsp;·&nbsp; Java *(primary)* &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; SQL  
-Backend &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; &nbsp;·&nbsp; Flask &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Maven &nbsp;·&nbsp; Node.js  
+Backend &nbsp;·&nbsp; Spring Boot  &nbsp;·&nbsp; Flask &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Maven &nbsp;·&nbsp; Node.js  
 AI / ML &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; AI App Development  
 Frontend &nbsp;·&nbsp; React.js &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; Canvas API &nbsp;·&nbsp; VS Code Extension API  
 Auth &nbsp;·&nbsp; OAuth 2.0 &nbsp;·&nbsp; GitHub OAuth &nbsp;·&nbsp; Session Management  
