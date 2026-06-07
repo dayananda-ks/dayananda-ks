@@ -55,7 +55,7 @@ Tools &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; Notion &nbsp;·&nb
 | Project | Stack | What it does |
 |---|---|---|
 | 🔗 https://github.com/dayananda-ks/HACTHON_SIT | React.js · Django · Python · Firebase | Cuts patient wait times via online appointment booking & queue management — Srinathan 2.0 National Hackathon |
-| [🔗 Multimodal Personal Tutor](#) | Python · AI Integration · Web | Text + Voice + Image learning platform with dynamic lessons — Top Round 3 of 52 teams, MIT Mysore Hackathon |
+| 🔗 https://github.com/dayananda-ks/text-text-genarater | Python · AI Integration · Web | Text + Voice + Image learning platform with dynamic lessons — Top Round 3 of 52 teams, MIT Mysore Hackathon |
 
 
 ---
