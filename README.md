@@ -104,7 +104,7 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 ---
 
 <div align="center">
-  <sub>🌐 https://daya436.me/ &nbsp;·&nbsp; Deployed on Vercel & Render &nbsp;·&nbsp; Open to SDE internships &nbsp;·&nbsp; Technical Lead @ Open Source Club &nbsp;·&nbsp; </sub>
+  <sub>🌐 daya436.me &nbsp;·&nbsp; Deployed on Vercel & Render &nbsp;·&nbsp; Open to SDE internships &nbsp;·&nbsp; Technical Lead @ Open Source Club &nbsp;·&nbsp; </sub>
 </div>
 
 <div align="center">
