@@ -1,35 +1,36 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dayananda%20K%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%E2%80%AA2%20AI%2FMLdescSize=16&descAlignY=55&descColor=aaaaaa" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dayananda%20K%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20AWS&descSize=16&descAlignY=55&descColor=aaaaaa" />
 </div>
 
 <br/>
 
 ```
-                     backend engineer. cloud learner. ai builder.
+              java backend developer. ai/ml engineer. aws explorer.
 ```
 
 ---
 
-**Hey, I'm Dayananda** — a Computer Science undergrad (6th sem) based in India, building things with **Java + Spring Boot** on the backend, exploring **AWS** for cloud infrastructure, and experimenting with **LangChain & RAG** on the AI side.
+**Hey, I'm Dayananda** — a Computer Science undergrad (6th sem) based in India. I specialize in **Java + Spring Boot** backend systems and actively build in the **AI/ML** space — RAG pipelines, LangChain agents, and model fine-tuning.
 
-I run Linux daily (Ubuntu & Fedora), care a lot about clean architecture, and I'm on a long-term goal to ship scalable AI + Cloud systems.
+I run Linux daily (Ubuntu & Fedora), think deeply about system design, and I'm on a mission to ship production-grade **AI-powered backend systems** on the cloud.
 
 ---
 
 ## What I'm working on
 
-- 🔧 **Full Stack App** — Spring Boot REST API + React frontend, containerized with Docker
-- 🤖 **RAG Pipeline** — Building a LangChain-based document Q&A system with vector search
-- ☁️ **AWS Cloud** — Studying for Solutions Architect; hands-on with EC2, S3, Lambda, RDS
+- ⚙️ **Java Backend** — Designing REST APIs with Spring Boot, Spring Security, and clean layered architecture
+- 🤖 **RAG Pipeline** — Building a LangChain-based document Q&A system with vector search & retrieval
+- ☁️ **AWS** — Hands-on with EC2, S3, Lambda, RDS; working toward Solutions Architect
 
 ---
 
 ## Stack
 
-**Core** &nbsp;·&nbsp; Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Dart  
-**Backend** &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Flask  
+**Languages** &nbsp;·&nbsp; Java *(primary)* &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Dart  
+**Backend** &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Spring MVC &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Flask  
+**AI / ML** &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Fine-Tuning &nbsp;·&nbsp; HuggingFace &nbsp;·&nbsp; OpenAI API  
 **Frontend** &nbsp;·&nbsp; React &nbsp;·&nbsp; Flutter  
-**Cloud / Infra** &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux  
+**Cloud / Infra** &nbsp;·&nbsp; AWS (EC2 · S3 · Lambda · RDS) &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux  
 **Data** &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Supabase
 
 ---
@@ -50,19 +51,19 @@ I run Linux daily (Ubuntu & Fedora), care a lot about clean architecture, and I'
 
 ## Featured Projects
 
-> *(Pin your 3 best repos here — replace placeholders below)*
+> *(Replace with your real repos — this table is what recruiters read)*
 
 | Project | Stack | What it does |
 |---|---|---|
-| [🔗 Project Name](#) | Spring Boot · MySQL · Docker | One line description of what it actually solves |
-| [🔗 Project Name](#) | LangChain · Python · Supabase | One line description — what problem, what impact |
-| [🔗 Project Name](#) | Flutter · Firebase | One line description — keep it crisp |
+| [🔗 Project Name](#) | Java · Spring Boot · MySQL · Docker | One line: what problem it solves |
+| [🔗 Project Name](#) | Python · LangChain · RAG · Supabase | One line: what the AI does, and for whom |
+| [🔗 Project Name](#) | Flutter · Firebase | One line: who uses it, what it delivers |
 
 ---
 
 ## Competitive Programming
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-dayananda--ks-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dayananda_K_S_1/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Dayananda__K__S__1-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dayananda_K_S_1/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-safe__bees__52-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/safe_bees_52)
 [![HackerRank](https://img.shields.io/badge/HackerRank-dayanandaks045-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dayanandaks045)
 
@@ -72,12 +73,12 @@ I run Linux daily (Ubuntu & Fedora), care a lot about clean architecture, and I'
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dayananda%20K%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanandaks)
 &nbsp;·&nbsp;
-📧 `dayanandaks045@gmail.com`
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-dayananda-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dayananda)
 
 ---
 
 <div align="center">
-  <sub>Updated regularly · Last meaningful project shipped: <b>check pinned repos ↑</b></sub>
+  <sub>Open to internships & collaborations · Last updated: 2025</sub>
 </div>
 
 <div align="center">
