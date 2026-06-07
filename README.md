@@ -5,34 +5,42 @@
 <br/>
 
 ```
-              java backend developer. ai/ml engineer. aws explorer.
+              java backend developer. ai/ml engineer. open source lead.
 ```
 
 ---
 
-**Hey, I'm Dayananda** — a Computer Science undergrad (6th sem) based in India. I specialize in **Java + Spring Boot** backend systems and actively build in the **AI/ML** space — RAG pipelines, LangChain agents, and model fine-tuning.
+**Hey, I'm Dayananda** — a Computer Science undergrad (B.E., 2027) at KVG College of Engineering, Sullia. I build **Java + Spring Boot** backend systems, ship AI-powered apps using **RAG & LLMs**, and push things to production.
 
-I run Linux daily (Ubuntu & Fedora), think deeply about system design, and I'm on a mission to ship production-grade **AI-powered backend systems** on the cloud.
+Currently interning at two places simultaneously, leading the Open Source Club at my college, and captaining the state-level Kabaddi team. I write clean code, think in systems, and learn by building.
 
 ---
 
-## What I'm working on
+## Experience
 
-- ⚙️ **SWE Intern @ Algorithm#365** — Strengthening Java, OOP, DSA, and interview-pattern problem solving
-- 🛠️ **SDE Intern @ WebQraft Solutions** — Backend engineering & scalable web systems in a startup environment
-- 🤖 **AI/ML** — Building RAG pipelines, LangChain agents, and LLM-powered applications
+- 🏢 **SWE Intern @ Algorithm#365** — Java, OOP, DSA patterns, interview-level problem solving
+- 🚀 **SDE Intern @ WebQraft Solutions** — Backend & web dev in a startup, Git workflows, deployment
+
+---
+
+## What I'm building
+
+- 🔌 **Word Counter Pro AI** — Production VS Code extension with real-time analytics, live status bar & dashboard
+- 🏥 **Hospital Queue System** — Appointment booking & patient queue management web app
+- 🤖 **Multimodal Personal Tutor** — Text + Voice + Image AI learning platform
+- 🎨 **3D Dome Gallery** — Immersive Canvas API experience with particle systems & audio-reactive visuals
 
 ---
 
 ## Stack
 
-Languages &nbsp;·&nbsp; Java *(primary)* &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript  
-Backend &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Spring MVC &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Django  
-AI / ML &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; RAG &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; AI App Development  
-Frontend &nbsp;·&nbsp; React &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS  
-Cloud / Infra &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Web Hosting &nbsp;·&nbsp; Namecheap  
+Languages &nbsp;·&nbsp; Java *(primary)* &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; SQL  
+Backend &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Django &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Maven &nbsp;·&nbsp; Node.js  
+AI / ML &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; AI App Development  
+Frontend &nbsp;·&nbsp; React.js &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; Canvas API &nbsp;·&nbsp; VS Code Extension API  
+Cloud / Infra &nbsp;·&nbsp; AWS *(Basic)* &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; Linux  
 Data &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Supabase  
-Tools &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; Notion &nbsp;·&nbsp; Razorpay API
+CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; Computer Networks
 
 ---
 
@@ -54,25 +62,28 @@ Tools &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; Notion &nbsp;·&nb
 
 | Project | Stack | What it does |
 |---|---|---|
-| 🔗 https://github.com/dayananda-ks/HACTHON_SIT | React.js · Django · Python · Firebase | Cuts patient wait times via online appointment booking & queue management — Srinathan 2.0 National Hackathon |
-| 🔗 https://github.com/dayananda-ks/smart_ai_platform- | Python · AI Integration · Web | Text + Voice + Image learning platform with dynamic lessons — Top Round 3 of 52 teams, MIT Mysore Hackathon |
+| [🔌 Word Counter Pro AI](https://github.com/dayananda-ks) | TypeScript · VS Code Extension API · Node.js | Production VS Code extension — real-time word, char, line count & reading-time analytics with live dashboard |
+| [🏥 Hospital Queue Management](https://github.com/dayananda-ks) | React.js · Django · Python · Firebase | Cuts patient wait times via online appointment booking & queue management — Srinathan 2.0 National Hackathon |
+| [🤖 Multimodal Personal Tutor](https://github.com/dayananda-ks) | Python · AI Integration | Text + Voice + Image adaptive learning platform — Round 3 of 52 teams, MIT Mysore Hackathon |
+| [🎨 3D Dome Gallery](https://github.com/dayananda-ks) | React · Canvas API · Web Audio API | Immersive 3D gallery with particle systems, dynamic lighting & audio-reactive visuals |
 
+> *Update each link to point to the actual repo*
 
 ---
 
 ## Achievements
 
-- 🥉 3rd Place — Internal College Hackathon
-- 🏆 Srinathan 2.0 National-Level Hackathon — ₹1 Lakh prize pool
-- 🚀 Top Round 3 of 52 teams — MIT Mysore Hackathon
 - 🛰️ Certificate of Acknowledgement — **Bharatiya Antariksh Hackathon 2025** by ISRO
+- 🚀 Advanced to **Round 3 of 52 teams** — MIT Mysore Hackathon
+- 🏆 Participated — **Srinathan 2.0 National Hackathon** (₹1L prize pool)
+- 🥉 3rd Place — Internal College Hackathon
 
 ---
 
 ## Competitive Programming
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Dayananda__K__S__1-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dayananda_K_S_1/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-safe__bees__52-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/safe_bees_52)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-dayanandxyuo-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/dayanandxyuo)
 [![HackerRank](https://img.shields.io/badge/HackerRank-dayanandaks045-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dayanandaks045)
 
 ---
@@ -88,7 +99,7 @@ Tools &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; Notion &nbsp;·&nb
 ---
 
 <div align="center">
-  <sub>Open to SDE internships · Technical Lead @ Open Source Club, KVG College · State-Level Kabaddi Captain</sub>
+  <sub>Open to SDE internships · Technical Lead @ Open Source Club · State-Level Kabaddi Captain · CGPA 7.7</sub>
 </div>
 
 <div align="center">
