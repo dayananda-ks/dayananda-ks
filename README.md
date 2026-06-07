@@ -82,7 +82,7 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 - 🛰️ Certificate of Acknowledgement — Bharatiya Antariksh Hackathon 2025 by ISRO
 - 🚀 Advanced to Round 3 of 52 teams — MIT Mysore Hackathon
 - 🏆 Participated — Srinathan 2.0 National Hackathon (₹1L prize pool)
-- 🥉 3rd Place — Internal College Hackathon (SecureSSO)
+- 🥉 3rd Place — Internal College Hackathon 
 
 ---
 
