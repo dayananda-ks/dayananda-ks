@@ -91,9 +91,7 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 ## Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dayananda%20K%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanandaks)
-&nbsp;·&nbsp;
 📧 dayanandaks045@gmail.com
-&nbsp;·&nbsp;
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-dayananda-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dayananda)
 
 ---
