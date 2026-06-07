@@ -97,7 +97,7 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 ---
 
 <div align="center">
-  <sub>Open to SDE internships · Technical Lead @ Open Source Club · State-Level Kabaddi Captain · CGPA 7.7</sub>
+  <sub>Open to SDE internships · Technical Lead @ Open Source Club · State-Level Kabaddi Captain</sub>
 </div>
 
 <div align="center">
