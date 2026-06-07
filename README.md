@@ -12,7 +12,7 @@
 
 **Hey, I'm Dayananda** — a Computer Science undergrad (B.E., 2027) at KVG College of Engineering, Sullia. I build **Java + Spring Boot** backend systems, ship AI-powered apps using **RAG & LLMs**, and push things to production.
 
-Technical Lead of the Open Source Club at my college, interning at two places simultaneously. I write clean code, think in systems, and learn by building.
+Currently interning at two places simultaneously and leading the Open Source Club at my college. Former state-level Kabaddi captain (12th grade). I write clean code, think in systems, and learn by building.
 
 ---
 
@@ -39,7 +39,10 @@ Backend &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Django &nbsp;·&nbsp; REST API
 AI / ML &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; AI App Development  
 Frontend &nbsp;·&nbsp; React.js &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; Canvas API &nbsp;·&nbsp; VS Code Extension API  
 Cloud / Infra &nbsp;·&nbsp; AWS *(Basic)* &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; Linux  
+Hosting &nbsp;·&nbsp; Vercel &nbsp;·&nbsp; Render &nbsp;·&nbsp; GitHub Pages  
 Data &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Supabase  
+Integrations &nbsp;·&nbsp; Razorpay  
+Tools &nbsp;·&nbsp; Notion  
 CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; Computer Networks
 
 ---
@@ -67,6 +70,7 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 | [🤖 Multimodal Personal Tutor](https://github.com/dayananda-ks) | Python · AI Integration | Text + Voice + Image adaptive learning platform — Round 3 of 52 teams, MIT Mysore Hackathon |
 | [🎨 3D Dome Gallery](https://github.com/dayananda-ks) | React · Canvas API · Web Audio API | Immersive 3D gallery with particle systems, dynamic lighting & audio-reactive visuals |
 
+> *Update each link to point to the actual repo*
 
 ---
 
@@ -89,14 +93,18 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 
 ## Reach me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-daya.me-000000?style=flat-square&logo=vercel&logoColor=white)](https://daya.me)
+&nbsp;·&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dayananda%20K%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanandaks)
+&nbsp;·&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-%40dayanandaks045-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@dayanandaks045)
+&nbsp;·&nbsp;
 📧 dayanandaks045@gmail.com
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-dayananda-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dayananda)
 
 ---
 
 <div align="center">
-  <sub>Open to SDE internships · Technical Lead @ Open Source Club · State-Level Kabaddi Captain · CGPA 7.7</sub>
+  <sub>🌐 daya.me &nbsp;·&nbsp; Deployed on Vercel & Render &nbsp;·&nbsp; Open to SDE internships &nbsp;·&nbsp; Technical Lead @ Open Source Club &nbsp;·&nbsp; </sub>
 </div>
 
 <div align="center">
