@@ -18,20 +18,21 @@ I run Linux daily (Ubuntu & Fedora), think deeply about system design, and I'm o
 
 ## What I'm working on
 
-- ⚙️ **Java Backend** — Designing REST APIs with Spring Boot, Spring Security, and clean layered architecture
-- 🤖 **RAG Pipeline** — Building a LangChain-based document Q&A system with vector search & retrieval
-- ☁️ **AWS** — Hands-on with EC2, S3, Lambda, RDS; working toward Solutions Architect
+- ⚙️ **SWE Intern @ Algorithm#365** — Strengthening Java, OOP, DSA, and interview-pattern problem solving
+- 🛠️ **SDE Intern @ WebQraft Solutions** — Backend engineering & scalable web systems in a startup environment
+- 🤖 **AI/ML** — Building RAG pipelines, LangChain agents, and LLM-powered applications
 
 ---
 
 ## Stack
 
 Languages &nbsp;·&nbsp; Java *(primary)* &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript  
-Backend &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Spring MVC &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Flask  
-AI / ML &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Fine-Tuning &nbsp;·&nbsp; HuggingFace &nbsp;·&nbsp; OpenAI API  
+Backend &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Spring MVC &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Django  
+AI / ML &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; RAG &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; AI App Development  
 Frontend &nbsp;·&nbsp; React &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS  
-Cloud / Infra &nbsp;·&nbsp; AWS (EC2 · S3 · Lambda · RDS) &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux  
-Data &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Supabase
+Cloud / Infra &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Web Hosting &nbsp;·&nbsp; Namecheap  
+Data &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Supabase  
+Tools &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; Notion &nbsp;·&nbsp; Razorpay API
 
 ---
 
@@ -51,13 +52,21 @@ Data &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Firebase &nbsp;�
 
 ## Featured Projects
 
-> *(Replace with your real repos — this table is what recruiters read)*
-
 | Project | Stack | What it does |
 |---|---|---|
-| [🔗 Project Name](#) | Java · Spring Boot · MySQL · Docker | One line: what problem it solves |
-| [🔗 Project Name](#) | Python · LangChain · RAG · Supabase | One line: what the AI does, and for whom |
-| [🔗 Project Name](#) | Flutter · Firebase | One line: who uses it, what it delivers |
+| [🔗 Hospital Queue Management](#) | React.js · Django · Python · Firebase | Cuts patient wait times via online appointment booking & queue management — Srinathan 2.0 National Hackathon |
+| [🔗 Multimodal Personal Tutor](#) | Python · AI Integration · Web | Text + Voice + Image learning platform with dynamic lessons — Top Round 3 of 52 teams, MIT Mysore Hackathon |
+
+> *Replace `#` with your actual GitHub repo links*
+
+---
+
+## Achievements
+
+- 🥉 3rd Place — Internal College Hackathon
+- 🏆 Srinathan 2.0 National-Level Hackathon — ₹1 Lakh prize pool
+- 🚀 Top Round 3 of 52 teams — MIT Mysore Hackathon
+- 🛰️ Certificate of Acknowledgement — **Bharatiya Antariksh Hackathon 2025** by ISRO
 
 ---
 
@@ -73,12 +82,14 @@ Data &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Firebase &nbsp;�
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dayananda%20K%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanandaks)
 &nbsp;·&nbsp;
+📧 dayanandaks045@gmail.com
+&nbsp;·&nbsp;
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-dayananda-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dayananda)
 
 ---
 
 <div align="center">
-  <sub>Open to internships & collaborations · Last updated: 2025</sub>
+  <sub>Open to SDE internships · Technical Lead @ Open Source Club, KVG College · State-Level Kabaddi Captain</sub>
 </div>
 
 <div align="center">
