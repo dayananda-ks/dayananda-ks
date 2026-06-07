@@ -65,12 +65,10 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 
 | Project | Stack | What it does |
 |---|---|---|
-| [🔌 Word Counter Pro AI](https://github.com/dayananda-ks) | TypeScript · VS Code Extension API · Node.js | Production VS Code extension — real-time word, char, line count & reading-time analytics with live dashboard |
-| [🏥 Hospital Queue Management](https://github.com/dayananda-ks) | React.js · Django · Python · Firebase | Cuts patient wait times via online appointment booking & queue management — Srinathan 2.0 National Hackathon |
-| [🤖 Multimodal Personal Tutor](https://github.com/dayananda-ks) | Python · AI Integration | Text + Voice + Image adaptive learning platform — Round 3 of 52 teams, MIT Mysore Hackathon |
-| [🎨 3D Dome Gallery](https://github.com/dayananda-ks) | React · Canvas API · Web Audio API | Immersive 3D gallery with particle systems, dynamic lighting & audio-reactive visuals |
-
-> *Update each link to point to the actual repo*
+| [🔌 Word Counter Pro AI](https://github.com/dayananda-ks/word-count) | TypeScript · VS Code Extension API · Node.js | Production VS Code extension — real-time word, char, line count & reading-time analytics with live dashboard |
+| [🏥 Hospital Queue Management](https://github.com/dayananda-ks/HACTHON_SIT) | React.js · Django · Python · Firebase | Cuts patient wait times via online appointment booking & queue management — Srinathan 2.0 National Hackathon |
+| [🤖 Multimodal Personal Tutor](https://github.com/dayananda-ks/smart_ai_platform-) | Python · AI Integration | Text + Voice + Image adaptive learning platform — Round 3 of 52 teams, MIT Mysore Hackathon |
+| [🎨 3D Dome Gallery](https://github.com/dayananda-ks/Aagaman) | React · Canvas API · Web Audio API | Immersive 3D gallery with particle systems, dynamic lighting & audio-reactive visuals |
 
 ---
 
