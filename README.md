@@ -67,7 +67,6 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 | [🤖 Multimodal Personal Tutor](https://github.com/dayananda-ks) | Python · AI Integration | Text + Voice + Image adaptive learning platform — Round 3 of 52 teams, MIT Mysore Hackathon |
 | [🎨 3D Dome Gallery](https://github.com/dayananda-ks) | React · Canvas API · Web Audio API | Immersive 3D gallery with particle systems, dynamic lighting & audio-reactive visuals |
 
-> *Update each link to point to the actual repo*
 
 ---
 
