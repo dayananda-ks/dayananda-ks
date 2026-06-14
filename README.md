@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dayananda%20K%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20AWS&descSize=16&descAlignY=55&descColor=aaaaaa" />
 </div>
-
 <br/>
 
 ```
