@@ -6,7 +6,6 @@
 ```
               java backend developer. ai/ml engineer. open source lead.
 ```
-
 ---
 
 Hey, I'm Dayananda — a Computer Science undergrad (B.E., 2027) at KVG College of Engineering, Sullia. I build Java + Spring Boot backend systems, ship AI-powered apps using RAG & LLMs, and push things to production.
