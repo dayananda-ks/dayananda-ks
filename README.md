@@ -11,7 +11,6 @@ Hey, I'm Dayananda — a Computer Science undergrad (B.E., 2027) at KVG College 
 Technical Lead of the Open Source Club at my college, interning at two places simultaneously. I write clean code, think in systems, and learn by building.
 
 ---
-
 ## Experience
 
 - 🏢 SWE Intern @ Algorithm#365 — Java, OOP, DSA patterns, interview-level problem solving
