@@ -25,9 +25,7 @@ Technical Lead of the Open Source Club at my college, interning at two places si
 - 🏥 Hospital Queue System — Appointment booking & patient queue management web app
 - 🤖 Multimodal Personal Tutor — Text + Voice + Image AI learning platform
 - 🎨 3D Dome Gallery — Immersive Canvas API experience with particle systems & audio-reactive visuals
-
 ---
-
 ## Stack
 
 Languages &nbsp;·&nbsp; Java *(primary)* &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; SQL  
