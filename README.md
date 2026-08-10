@@ -77,7 +77,6 @@ CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; C
 - 🥉 3rd Place — Internal College Hackathon 
 
 ---
-
 ## Competitive Programming
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Dayananda__K__S__1-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dayananda_K_S_1/)
