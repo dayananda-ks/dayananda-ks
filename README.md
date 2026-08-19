@@ -57,26 +57,23 @@ I'm also the **Technical Lead of the Open Source Club** at my college and curren
 <div align="center">
 
 <img
-height="180"
-src="https://github-readme-stats-fast.vercel.app/api?username=dayananda-ks&show_icons=true&theme=github_dark&hide_border=true"
+  height="180"
+  src="https://github-readme-stats-fast.vercel.app/api?username=dayananda-ks&show_icons=true&theme=github_dark&hide_border=true"
 />
 
 <img
-height="180"
-src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dayananda-ks&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+  height="180"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dayananda-ks&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+/>
+
+<br/><br/>
+
+<img
+  width="95%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayananda-ks&theme=github_dark"
 />
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=dayananda-ks&theme=github-compact&hide_border=true&area=true"
-width="95%"
-/>
-
 </div>
 
 
