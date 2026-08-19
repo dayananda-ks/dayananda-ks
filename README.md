@@ -1,106 +1,164 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dayananda%20K%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20AWS&descSize=16&descAlignY=55&descColor=aaaaaa" />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dayananda%20K%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20AWS&descSize=16&descAlignY=55&descColor=aaaaaa" />
+
 <br/>
-``` 
-             java backend developer. ai/ml engineer. open source lead.
-```
----
-Hey, I'm Dayananda — a Computer Science undergrad (B.E., 2027) at KVG College of Engineering, Sullia. I build Java + Spring Boot backend systems, ship AI-powered apps using RAG & LLMs, and push things to production.
 
-Technical Lead of the Open Source Club at my college, interning at two places simultaneously. I write clean code, think in systems, and learn by building.
----
-## Experience
+### `Java Backend Developer | AI/ML Engineer | Open Source Lead.`
 
-- 🏢 SWE Intern @ Algorithm#365 — Java, OOP, DSA patterns, interview-level problem solving
-- 🚀 SDE Intern @ WebQraft Solutions — Backend & web dev in a startup, Git workflows, deployment
-
----
-
-## What I'm building
-
-- 🔌 Word Counter Pro AI — Production VS Code extension with real-time analytics, live status bar & dashboard
-- 🔐 SecureSSO — GitHub OAuth 2.0 dashboard with session management & live GitHub API integration
-- 🏥 Hospital Queue System — Appointment booking & patient queue management web app
-- 🤖 Multimodal Personal Tutor — Text + Voice + Image AI learning platform
-- 🎨 3D Dome Gallery — Immersive Canvas API experience with particle systems & audio-reactive visuals
----
-## Stack
-
-Languages &nbsp;·&nbsp; Java *(primary)* &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; SQL  
-Backend &nbsp;·&nbsp; Spring Boot  &nbsp;·&nbsp; Flask &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Maven &nbsp;·&nbsp; Node.js  
-AI / ML &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Prompt Engineering &nbsp;·&nbsp; AI App Development  
-Frontend &nbsp;·&nbsp; React.js &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; Canvas API &nbsp;·&nbsp; VS Code Extension API  
-Auth &nbsp;·&nbsp; OAuth 2.0 &nbsp;·&nbsp; GitHub OAuth &nbsp;·&nbsp; Session Management  
-Cloud / Infra &nbsp;·&nbsp; AWS *(Basic)* &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; Linux  
-Hosting &nbsp;·&nbsp; Vercel &nbsp;·&nbsp; Render &nbsp;·&nbsp; GitHub Pages  
-Data &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Supabase  
-Integrations &nbsp;·&nbsp; Razorpay &nbsp;·&nbsp; GitHub REST API  
-Tools &nbsp;·&nbsp; Notion  
-CS Core &nbsp;·&nbsp; DSA &nbsp;·&nbsp; OOP &nbsp;·&nbsp; OS &nbsp;·&nbsp; Computer Networks
-
----
-
-## GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dayananda-ks&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=prs&custom_title=Activity" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dayananda-ks&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
 
+Hey, I'm **Dayananda** — a Computer Science undergrad (B.E., 2027) at **KVG College of Engineering, Sullia**.
+
+I build **Java + Spring Boot backend systems**, ship **AI-powered applications using RAG & LLMs**, and push things to production.
+
+I'm also the **Technical Lead of the Open Source Club** at my college and currently interning at two places simultaneously. I write clean code, think in systems, and learn by building.
+
+---
+
+## 💼 Experience
+
+* 🏢 **SWE Intern @ Algorithm#365**
+  Java · OOP · DSA Patterns · Interview-level Problem Solving
+
+* 🚀 **SDE Intern @ WebQraft Solutions**
+  Backend & Web Development · Startup Environment · Git Workflows · Deployment
+
+---
+
+## 🚀 What I'm Building
+
+* 🔌 **Word Counter Pro AI** — Production VS Code extension with real-time analytics, live status bar & dashboard
+* 🔐 **SecureSSO** — GitHub OAuth 2.0 dashboard with session management & live GitHub API integration
+* 🏥 **Hospital Queue System** — Appointment booking & patient queue management web application
+* 🤖 **Multimodal Personal Tutor** — Text + Voice + Image AI learning platform
+* 🎨 **3D Dome Gallery** — Immersive Canvas API experience with particle systems & audio-reactive visuals
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  :   Java *(Primary)* | Python | JavaScript | TypeScript | SQL  
+**Backend**    :  Spring Boot | Flask | REST APIs | Maven | Node.js  
+**AI / ML**    :  LLMs | RAG | Prompt Engineering | AI Application Development  
+**Frontend**   : React.js | HTML | CSS | Canvas API | VS Code Extension API  
+**Authentication**  :  OAuth 2.0 | GitHub OAuth | Session Management  
+**Cloud / Infrastructure**  :  AWS | Git | GitHub | Linux  
+**Hosting**  :  Vercel | Render | GitHub Pages  
+**Databases**  :  MySQL | Firebase | Supabase  
+**Integrations**  :  Razorpay | GitHub REST API  
+**Tools**  :  Notion  
+**CS Fundamentals**  :  DSA | OOP | Operating Systems | Computer Networks
+
+
+---
+## 📊 GitHub Stats
+
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=dayananda-ks&theme=github-dark-blue&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=dayananda-ks&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dayananda-ks&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=dayananda-ks&theme=github-dark-blue&hide_border=true" />
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=LikithaCSuguna&theme=tokyonight&hide_border=true"
+    width="70%"
+  />
+</p>
 </div>
 
 ---
 
-## Featured Projects
+## ⭐ Featured Projects
 
-| Project | Stack | What it does |
-|---|---|---|
-| [🔌 Word Counter Pro AI](https://github.com/dayananda-ks) | TypeScript · VS Code Extension API · Node.js | Production VS Code extension — real-time word, char, line count & reading-time analytics with live dashboard |
-| [🔐 SecureSSO](https://github.com/dayananda-ks/SecureSSO) | Python · Flask · Authlib · GitHub OAuth 2.0 | GitHub OAuth dashboard with secure session management & live GitHub API data —[Live](https://securesso-6byz.onrender.com) |
-| [🏥 Hospital Queue Management](https://github.com/dayananda-ks) | React.js · Django · Python · Firebase | Cuts patient wait times via online appointment booking & queue management — Srinathan 2.0 National Hackathon |
-| [🤖 Multimodal Personal Tutor](https://github.com/dayananda-ks) | Python · AI Integration | Text + Voice + Image adaptive learning platform — Round 3 of 52 teams, MIT Mysore Hackathon |
-| [🎨 3D Dome Gallery](https://github.com/dayananda-ks) | React · Canvas API · Web Audio API | Immersive 3D gallery with particle systems, dynamic lighting & audio-reactive visuals |
+| Project                                                             | Stack                                        | What it does                                                                                                                    |
+| ------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| [🔌 **Word Counter Pro AI**](https://github.com/dayananda-ks)       | TypeScript · VS Code Extension API · Node.js | Production VS Code extension with real-time word, character, line count & reading-time analytics                                |
+| [🔐 **SecureSSO**](https://github.com/dayananda-ks/SecureSSO)       | Python · Flask · Authlib · GitHub OAuth 2.0  | GitHub OAuth dashboard with secure session management & live GitHub API data — [Live Demo](https://securesso-6byz.onrender.com) |
+| [🏥 **Hospital Queue Management**](https://github.com/dayananda-ks) | React.js · Django · Python · Firebase        | Online appointment booking & queue management system — Srinathan 2.0 National Hackathon                                         |
+| [🤖 **Multimodal Personal Tutor**](https://github.com/dayananda-ks) | Python · AI Integration                      | Text + Voice + Image adaptive learning platform — Round 3 of 52 teams, MIT Mysore Hackathon                                     |
+| [🎨 **3D Dome Gallery**](https://github.com/dayananda-ks)           | React · Canvas API · Web Audio API           | Immersive 3D gallery with particle systems, dynamic lighting & audio-reactive visuals                                           |
 
-> *Update placeholder links to actual repo URLs*
- 
----
-
-## Achievements
-
-- 🛰️ Certificate of Acknowledgement — Bharatiya Antariksh Hackathon 2025 by ISRO
-- 🚀 Advanced to Round 3 of 52 teams — MIT Mysore Hackathon
-- 🏆 Participated — Srinathan 2.0 National Hackathon (₹1L prize pool)
-- 🥉 3rd Place — Internal College Hackathon 
-
----
-## Competitive Programming
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Dayananda__K__S__1-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dayananda_K_S_1/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-dayanandxyuo-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/dayanandxyuo)
-[![HackerRank](https://img.shields.io/badge/HackerRank-dayanandaks045-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dayanandaks045)
 
 ---
 
-## Reach me
+## 🏆 Achievements
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-daya436.me-000000?style=flat-square&logo=vercel&logoColor=white)](https://daya436.me)
-&nbsp;·&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dayananda%20K%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanandaks)
-&nbsp;·&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-%40dayanandaks045-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@dayanandaks045)
-&nbsp;·&nbsp;
-📧 dayanandaks045@gmail.com
+* 🛰️ **Certificate of Acknowledgement** — Bharatiya Antariksh Hackathon 2025 by ISRO
+* 🚀 **Advanced to Round 3 of 52 teams** — MIT Mysore Hackathon
+* 🏆 **Participant** — Srinathan 2.0 National Hackathon *(₹1L prize pool)*
+* 🥉 **3rd Place** — Internal College Hackathon
+
+---
+
+## 💻 Competitive Programming
+
+<p align="left">
+
+<a href="https://leetcode.com/u/Dayananda_K_S_1/">
+  <img src="https://img.shields.io/badge/LeetCode-Dayananda__K__S__1-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/dayanandxyuo">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-dayanandxyuo-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/dayanandaks045">
+  <img src="https://img.shields.io/badge/HackerRank-dayanandaks045-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 📫 Reach Me
+
+<p align="left">
+
+<a href="https://daya436.me">
+  <img src="https://img.shields.io/badge/Portfolio-daya436.me-000000?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/dayanandaks">
+  <img src="https://img.shields.io/badge/LinkedIn-Dayananda%20K%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+ 
+
+<a href="https://medium.com/@dayanandaks045">
+  <img src="https://img.shields.io/badge/Medium-%40dayanandaks045-000000?style=flat-square&logo=medium&logoColor=white" />
+</a>
+
+ 
+
+📧 **[dayanandaks045@gmail.com](mailto:dayanandaks045@gmail.com)**
+
+</p>
 
 ---
 
 <div align="center">
-  <sub>🌐 daya.me &nbsp;·&nbsp; Deployed on Vercel & Render &nbsp;·&nbsp; Open to SDE internships &nbsp;·&nbsp; Technical Lead @ Open Source Club</sub>
+
+<sub>
+🌐 daya.me &nbsp;·&nbsp;
+Deployed on Vercel & Render &nbsp;·&nbsp;
+Open to SDE internships &nbsp;·&nbsp;
+Technical Lead @ Open Source Club
+</sub>
+
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
 </div>
