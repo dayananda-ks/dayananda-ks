@@ -56,22 +56,24 @@ I'm also the **Technical Lead of the Open Source Club** at my college and curren
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=dayananda-ks&show_icons=true&theme=github_dark&hide_border=true" />
+<img
+height="180"
+src="https://github-readme-stats-fast.vercel.app/api?username=dayananda-ks&show_icons=true&theme=github_dark&hide_border=true"
+/>
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dayananda-ks&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img
+height="180"
+src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dayananda-ks&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=dayananda-ks&theme=github-dark-blue&hide_border=true" />
+<img
+width="70%"
+src="https://streak-stats.demolab.com/?user=dayananda-ks&theme=github-dark-blue&hide_border=true"
+/>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=LikithaCSuguna&theme=tokyonight&hide_border=true"
-    width="70%"
-  />
-</p>
 </div>
-
 ---
 
 ## ⭐ Featured Projects
